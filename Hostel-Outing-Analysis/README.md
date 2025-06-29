@@ -32,3 +32,5 @@ This project is a complete Power BI dashboard that analyzes student outings from
 **Sanjith Kumar**
 
 > For feedback or internship reference, feel free to connect!
+> 📬 Connect with me: [LinkedIn](https://www.linkedin.com/in/sanjithkumar-sukumar-058a0a2b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjWDP4OPFRJaNEgCsYLElLQ%3D%3D)
+
